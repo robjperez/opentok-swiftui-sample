@@ -2,5 +2,5 @@ platform :ios, '13.0'
 use_frameworks!
 
 target 'opentok-swiftui-sample' do
-	pod 'OpenTok', '~>2.16'
+	pod 'OpenTok', '~>2.17'
 end
